@@ -1,0 +1,1 @@
+Graphs depicting population-wide queries based on sample data provided by SMART
